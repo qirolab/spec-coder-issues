@@ -4,6 +4,8 @@
 
 Spec Coder empowers you to code faster and smarter with AI assistance. Spec Coder integrates seamlessly with Visual Studio Code, providing you with intelligent code suggestions, automated completion, and real-time analysis. With Spec Coder, you can also enjoy AI-driven chat support for instant coding assistance, making your coding experience more efficient and enjoyable.
 
+This extension is maintained by Harish Kumar, creator of [Qirolab.com](https://qirolab.com).
+
 ## Video Tutorial
 
 Watch our video tutorial to get started with Spec Coder: [https://www.youtube.com/watch?v=zbte-HpDpkU](https://www.youtube.com/watch?v=zbte-HpDpkU)
