@@ -10,13 +10,6 @@ This extension is maintained by Harish Kumar, creator of [Qirolab.com](https://q
 
 Watch our video tutorial to get started with Spec Coder: [https://www.youtube.com/watch?v=zbte-HpDpkU](https://www.youtube.com/watch?v=zbte-HpDpkU)
 
-## Download Spec Coder
- Don't miss out - enhance your coding workflow today with Spec Coder!
-
-<a href="https://qirolab.gumroad.com/l/spec-coder">
-    <img src="https://i.imgur.com/hzwIK3z.png" width="200"/>
-</a>
-
 ## AI Providers
 
 You have the option to choose between two powerful AI providers:
@@ -29,6 +22,20 @@ You have the option to choose between two powerful AI providers:
 ## Features
 
 Spec Coder offers a wide range of features designed to enhance your coding workflow:
+
+- AI Chat ([Premium](https://qirolab.com/spec-coder))
+- Code Generation
+- Unit Test Generation
+- Docstring Generation
+- Generate Regex (Create Regular Expressions with Ease)
+- Explain Code (Understand Your Code Better) ([Premium](https://qirolab.com/spec-coder))
+- Refactor Code (Improve Code Quality) ([Premium](https://qirolab.com/spec-coder))
+- Find Complexity (Analyze Code Complexity) ([Premium](https://qirolab.com/spec-coder))
+- Find Bugs ([Premium](https://qirolab.com/spec-coder))
+- Generate Commit Messages ([Premium](https://qirolab.com/spec-coder))
+- Ask AI (Ask anything AI about the selected code) ([Premium](https://qirolab.com/spec-coder))
+
+Purchase a licence at [https://qirolab.com/spec-coder](https://qirolab.com/spec-coder) to access PREMIUM features. Features not marked as PREMIUM are free and always will be free.
 
 ### AI Chat
 
