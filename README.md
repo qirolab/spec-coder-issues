@@ -1,6 +1,6 @@
 # Spec Coder
 
-![Spec Coder](https://i.imgur.com/lPWpSSo.png)
+![Spec Coder](https://i.imgur.com/NBmz95e.png)
 
 Spec Coder empowers you to code faster and smarter with AI assistance. Spec Coder integrates seamlessly with Visual Studio Code, providing you with intelligent code suggestions, automated completion, and real-time analysis. With Spec Coder, you can also enjoy AI-driven chat support for instant coding assistance, making your coding experience more efficient and enjoyable.
 
@@ -8,7 +8,7 @@ This extension is maintained by Harish Kumar, creator of [Qirolab.com](https://q
 
 ## Video Tutorial
 
-Watch our video tutorial to get started with Spec Coder: [https://www.youtube.com/watch?v=zbte-HpDpkU](https://www.youtube.com/watch?v=zbte-HpDpkU)
+Watch our video tutorial to get started with Spec Coder: [https://www.youtube.com/watch?v=m3Gg13O00KA](https://www.youtube.com/watch?v=m3Gg13O00KA)
 
 ## AI Providers
 
@@ -18,16 +18,19 @@ You have the option to choose between two powerful AI providers:
   - **Get Your OpenAI API Key:** Head over to [https://platform.openai.com/account/api-keys](https://platform.openai.com/account/api-keys) and create an account (if you don't have one already). Once logged in, navigate to the API section and generate a new API key. You'll need to copy and paste this key into Spec Coder's settings for OpenAI access.
 - **Gemini Pro**: Harness the capabilities of Gemini Pro for enhanced AI support.
   - **Get Your Gemini AI API Key:** Visit [https://aistudio.google.com/app/apikey](https://aistudio.google.com/app/apikey) and sign in with your Google account. This will take you to Google AI Studio where you can access the "Get API Key" option. Choose to create a new API key or select an existing Google Cloud project. Once created, copy and paste this key into Spec Coder's settings for Gemini Pro access.
+- **Hugging Face:** Leverage the vast open-source library of pre-trained models on Hugging Face for specific coding tasks. Spec Coder will integrate seamlessly with Hugging Face, allowing you to explore a wide range of models for tasks like code generation, AI Chat etc.
+  - **Get Your Access Tokens:** Visit [https://huggingface.co/settings/tokens](https://huggingface.co/settings/tokens) and create an account (if you don't have one already). Once logged in, navigate to the Access Tokens section and generate a new token. You'll need to copy and paste this token into Spec Coder's settings for Hugging Face access.
+- **Ollama:** Tap into the capabilities of Ollama, a platform focused on large language models for developer needs. Ollama offers various models trained on code, enabling functionalities like code completion and debugging assistance. Unlike other providers, Ollama can be installed locally on your machine, allowing you to use its features even without an internet connection.
 
 ## Features
 
 Spec Coder offers a wide range of features designed to enhance your coding workflow:
 
 - AI Chat ([Premium](https://qirolab.com/spec-coder))
-- Code Generation
+- Auto complete Your Code with AI ([Premium](https://qirolab.com/spec-coder))
+- Trigger manually Code Generation
 - Unit Test Generation
 - Docstring Generation
-- Generate Regex (Create Regular Expressions with Ease)
 - Explain Code (Understand Your Code Better) ([Premium](https://qirolab.com/spec-coder))
 - Refactor Code (Improve Code Quality) ([Premium](https://qirolab.com/spec-coder))
 - Find Complexity (Analyze Code Complexity) ([Premium](https://qirolab.com/spec-coder))
@@ -43,9 +46,13 @@ Get instant coding assistance and guidance through an interactive AI chat interf
 
 ![AI Chat](https://i.imgur.com/VDoecOn.gif)
 
-### Generate Code
+### Auto complete Your Code with AI
+Spec Coder's AI-powered autocomplete predicts your next move, suggesting code snippets, functions, and variables as you type. Reduce errors, write faster, and focus on the creative aspects of coding.
 
-Accelerate development by generating code snippets, boilerplate code, and even entire functions based on your specifications.
+![Auto complete Your Code](https://i.imgur.com/g7jNbJz.gif)
+
+### Trigger manually Code Generation
+Even if you have disabled Spec Coder's autocomplete in the configuration settings, you can still use AI to write code efficiently. Simply initiate manual code generation and provide instructions. By doing so, you can speed up development by generating code snippets, boilerplate code, and even complete functions based on your specifications.
 
 ![Generate Code](https://i.imgur.com/NbltWdy.gif)
 
@@ -61,11 +68,11 @@ Effortlessly produce informative docstrings for functions, classes, and other co
 
 ![Generate Docstring](https://i.imgur.com/MWZH7m7.gif)
 
-### Generate Regex
+### Generate Commit Message
 
-Create regular expressions effortlessly with AI assistance. Specify patterns and constraints, and let Spec Coder generate the appropriate regex for your needs.
+Automate your commit messages with AI-generated suggestions, ensuring concise and accurate version control history.
 
-![Generate Regex](https://i.imgur.com/4f7NMuY.gif)
+![Generate Commit Message](https://i.imgur.com/6Xm95X5.gif)
 
 ### Explain Code
 
@@ -91,12 +98,6 @@ Identify and resolve bugs quickly using AI-powered detection. Discover potential
 
 ![Find Bug](https://i.imgur.com/ZrY7Q6r.gif)
 
-### Generate Commit Message
-
-Automate your commit messages with AI-generated suggestions, ensuring concise and accurate version control history.
-
-![Generate Commit Message](https://i.imgur.com/6Xm95X5.gif)
-
 ### Ask AI (Ask anything to AI about selected code)
 
 Highlight the code you're interested in and ask AI anything to instantly gain valuable insights, explanations, and assistance.
@@ -106,7 +107,7 @@ Highlight the code you're interested in and ask AI anything to instantly gain va
 ## Download Spec Coder
  Don't miss out - enhance your coding workflow today with Spec Coder!
 
-<a href="https://qirolab.gumroad.com/l/spec-coder">
+<a href="https://qirolab.com/spec-coder">
     <img src="https://i.imgur.com/hzwIK3z.png" width="200"/>
 </a>
 
