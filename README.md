@@ -8,7 +8,7 @@ This extension is maintained by Harish Kumar, creator of [Qirolab.com](https://q
 
 ## Video Tutorial
 
-Watch our video tutorial to get started with Spec Coder: [https://www.youtube.com/watch?v=m3Gg13O00KA](https://www.youtube.com/watch?v=m3Gg13O00KA)
+Watch our video tutorial to get started with Spec Coder: [https://www.youtube.com/watch?v=88CTOA7jL4s](https://www.youtube.com/watch?v=88CTOA7jL4s)
 
 ## AI Providers
 
